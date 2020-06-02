@@ -1,0 +1,104 @@
+﻿<Window x:Class="SI_BAKULA_V2._0.Gui.InicioCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SI_BAKULA_V2._0.Gui"
+        mc:Ignorable="d"
+        Title="InicioCliente" Height="720" Width="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="#FFD9AAD4">
+            <Canvas>
+                <Image Source="/SI_BAKULA_V2.0;component/Images/LOGO 2.png" Height="90" Canvas.Top="10" Width="104" Canvas.Left="10"></Image>
+                <Button x:Name="btnNombreClient" Content="Juan" Canvas.Left="1069" Canvas.Top="35" Width="176" Click="Button_Click" FontFamily="Ubuntu" BorderBrush="{x:Null}" Background="{x:Null}" FontSize="20" FontWeight="Bold"/>
+            </Canvas>
+        </Border>
+        <Border Grid.Row="1">
+            <ScrollViewer>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="200"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Border Grid.Row="0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="200"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Border Grid.Column="0">
+                                <Canvas>
+                                    <ComboBox  Canvas.Left="27" Canvas.Top="38" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="163" FontFamily="Ubuntu" FontSize="16"/>
+
+                                </Canvas>
+                            </Border>
+                            <Border Grid.Column="1">
+                                <ScrollViewer>
+                                    <DockPanel>
+                                        <Button Height="200" Width="200" Margin="10,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                                            <Image Height="200" Width="200" Source="/SI_BAKULA_V2.0;component/Images/flexi-priceshoes.jpg"/>
+                                        </Button>
+                                        <Button Height="200" Width="200" Margin="10,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                                            <Image Height="200" Width="200" Source="/SI_BAKULA_V2.0;component/Images/vans_negro.jpg"/>
+                                        </Button>
+                                        <Button Height="200" Width="200" Margin="10,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                                            <Image Height="200" Width="200" Source="/SI_BAKULA_V2.0;component/Images/cuadra.png"/>
+                                        </Button>
+                                        <Button Height="200" Width="200" Margin="10,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                                            <Image Height="200" Width="200" Source="/SI_BAKULA_V2.0;component/Images/LOGO 2.png"/>
+                                        </Button>
+                                        <Button Height="200" Width="200" Margin="10,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                                            <Image Height="200" Width="200" Source="/SI_BAKULA_V2.0;component/Images/iimages.png"/>
+                                        </Button>
+                                        <Button Height="200" Width="200" Margin="10,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                                            <Image Height="200" Width="200" Source="/SI_BAKULA_V2.0;component/Images/cuadra.png"/>
+                                        </Button>
+
+                                    </DockPanel>
+                                </ScrollViewer>
+                            </Border>
+                        </Grid>
+
+                    </Border>
+                    <Border Grid.Row="1">
+                        <Canvas>
+                            <TextBlock HorizontalAlignment="Center" Height="41" TextWrapping="Wrap" Text="Los Mas Vendidos" VerticalAlignment="Top" Width="306" FontFamily="Ubuntu" FontSize="30" TextAlignment="Center" FontWeight="Bold" Margin="497,29,469,0"/>
+                            <ComboBox HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="163" Canvas.Left="1047" Canvas.Top="77" FontFamily="Ubuntu" FontSize="16"/>
+                            <Label Content="Criterio de Busqueda" Canvas.Left="833" Canvas.Top="77" FontFamily="Ubuntu" FontSize="20"/>
+                            <StackPanel x:Name="spImg" Width="200" Canvas.Left="124" Canvas.Top="149" MouseDown="SpImg_MouseDown">
+                                <Image Width="200" Height="150" Source="/SI_BAKULA_V2.0;component/Images/compra.jpg"/>
+                                <TextBlock Width="200" Height="40" Text="Zapato 1" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                <TextBlock Width="200" Height="40" Text="Es el Zapato 1" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                            </StackPanel>
+                            <StackPanel Width="200" Canvas.Left="414" Canvas.Top="149">
+                                <Image Width="200" Height="150" Source="/SI_BAKULA_V2.0;component/Images/images (1).jpg"/>
+                                <TextBlock Width="200" Height="40" Text="Zapato 2" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                <TextBlock Width="200" Height="40" Text="Es el Zapato 1" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                            </StackPanel>
+                            <StackPanel Width="200" Canvas.Left="713" Canvas.Top="149">
+                                <Image Width="200" Height="150" Source="/SI_BAKULA_V2.0;component/Images/images (2).jpg"/>
+                                <TextBlock Width="200" Height="40" Text="Zapato 3" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                <TextBlock Width="200" Height="40" Text="Es el Zapato 3" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                            </StackPanel>
+                            <StackPanel Width="200" Canvas.Left="988" Canvas.Top="149">
+                                <Image Width="200" Height="150" Source="/SI_BAKULA_V2.0;component/Images/8002732-1.jpg"/>
+                                <TextBlock Width="200" Height="40" Text="Zapato 4" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                <TextBlock Width="200" Height="40" Text="Es el Zapato 4" FontFamily="Ubuntu" FontSize="16" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                            </StackPanel>
+                        </Canvas>
+
+                    </Border>
+                </Grid>
+            </ScrollViewer>
+        </Border>
+
+    </Grid>
+</Window>

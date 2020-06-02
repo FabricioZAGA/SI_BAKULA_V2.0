@@ -1,0 +1,76 @@
+﻿<Window x:Class="SI_BAKULA_V_1._0.Gui.Registro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SI_BAKULA_V_1._0.Gui"
+        mc:Ignorable="d"
+        Title="Registro" Height="720" Width="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="#FFD9AAD4">
+            <Canvas>
+                <Image  Height="90" Canvas.Top="10" Width="104" Canvas.Left="10" Source="/SI_BAKULA_V2.0;component/Images/LOGO 2.png"></Image>
+                <Button Content="Regresar" Canvas.Left="1119" Canvas.Top="35" Width="126" FontFamily="Ubuntu" BorderBrush="{x:Null}" Background="{x:Null}" FontSize="20" FontWeight="Bold" Click="Button_Click"/>
+                <TextBlock HorizontalAlignment="Center" Height="41" TextWrapping="Wrap" Text="Registrarse" VerticalAlignment="Top" Width="306" FontFamily="Ubuntu" FontSize="30" TextAlignment="Center" Canvas.Left="493" Canvas.Top="28" FontWeight="Bold"/>
+            </Canvas>
+        </Border>
+        <Border Grid.Row="1">
+            <Canvas>
+                <Label Content="Usuario" Canvas.Left="55" Canvas.Top="57" FontFamily="Ubuntu" FontSize="20"/>
+                <Label Content="Contraseña" Canvas.Left="55" Canvas.Top="112" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtUsuario" Height="34" Canvas.Left="185" TextWrapping="Wrap" Canvas.Top="57" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <TextBox x:Name="txtContrasenia" Height="34" Canvas.Left="185" Canvas.Top="112" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Apellido Paterno" Canvas.Left="398" Canvas.Top="125" FontFamily="Ubuntu" FontSize="20"/>
+                <Label Content="Nombre" Canvas.Left="55" Canvas.Top="163" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtNombre" Height="34" Canvas.Left="185" Canvas.Top="163" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <TextBox x:Name="txtApPaterno" Height="34" Canvas.Left="390" Canvas.Top="163" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Apellido Materno" Canvas.Left="591" Canvas.Top="125" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtApMaterno" Height="34" Canvas.Left="588" Canvas.Top="163" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Email" Canvas.Left="398" Canvas.Top="57" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtEmail" Height="34" Canvas.Left="486" TextWrapping="Wrap" Canvas.Top="57" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Calle" Canvas.Left="55" Canvas.Top="217" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtTelefonotxtCalle" Height="34" Canvas.Left="185" TextWrapping="Wrap" Canvas.Top="217" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Colonia" Canvas.Left="398" Canvas.Top="217" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtColonia" Height="34" Canvas.Left="486" TextWrapping="Wrap" Canvas.Top="217" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Estado" Canvas.Left="55" Canvas.Top="273" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtEstado" Height="34" Canvas.Left="185" TextWrapping="Wrap" Canvas.Top="273" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Municipio" Canvas.Left="392" Canvas.Top="273" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtMunicipio" Height="34" Canvas.Left="486" TextWrapping="Wrap" Canvas.Top="273" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="C.P." Canvas.Left="433" Canvas.Top="337" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtCP" Height="34" Canvas.Left="486" TextWrapping="Wrap" Canvas.Top="337" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Telefono" Canvas.Left="55" Canvas.Top="337" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtTelefono" Height="34" Canvas.Left="185" TextWrapping="Wrap" Canvas.Top="337" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <TextBlock Text="¿Quieres ingresar algun metodo de pago?" Canvas.Left="941" Canvas.Top="51" FontFamily="Ubuntu" FontSize="20" Width="221" Height="65" TextWrapping="WrapWithOverflow" TextAlignment="Center"/>
+                <RadioButton x:Name="rdSi" Content="Si" Canvas.Left="996" Canvas.Top="121" FontSize="16"/>
+                <RadioButton  x:Name="rdNo" Content="No" Canvas.Left="1062" Canvas.Top="121" FontSize="16"/>
+                <ComboBox x:Name="cmdMetodoPago" Height="34" Canvas.Left="1080" Canvas.Top="174" Width="134"/>
+                <Label Content="Metodo de Pago" Canvas.Left="895" Canvas.Top="174" FontFamily="Ubuntu" FontSize="20"/>
+                <Label Content="Numero de tarjeta" Canvas.Left="855" Canvas.Top="230" FontFamily="Ubuntu" FontSize="20"/>
+                <Label Content="Nombre" Canvas.Left="913" Canvas.Top="283" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtNTarjeta" Height="34" Canvas.Left="1043" TextWrapping="Wrap" Canvas.Top="228" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <TextBox x:Name="txtNombreTarjeta" Height="34" Canvas.Left="1043" Canvas.Top="283" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Mes" Canvas.Left="941" Canvas.Top="337" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtMes" Height="34" Canvas.Left="1007" Canvas.Top="337" Width="38" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Año" Canvas.Left="1080" Canvas.Top="337" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtAnio" Height="34" Canvas.Left="1146" Canvas.Top="337" Width="38" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Label Content="Codigo de seguridad" Canvas.Left="832" Canvas.Top="392" FontFamily="Ubuntu" FontSize="20"/>
+                <TextBox x:Name="txtCSeguridad" Height="34" Canvas.Left="1043" Canvas.Top="392" Width="171" FontFamily="Ubuntu" FontSize="20" Foreground="#FFABADB3"/>
+                <Button x:Name="btnRegistrarse" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="290" Canvas.Top="430" Click="BtnRegistrarse_Click">
+                    <Border Width="133" Height="60" Background="#FFD9AAD4" CornerRadius="10" BorderBrush="#FF707070">
+                        <Label VerticalAlignment="Center" FontFamily="Ubuntu" FontSize="16" HorizontalAlignment="Center" Content="Registrarse"/>
+                    </Border>
+                </Button>
+                <Button x:Name="btnIngresar" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="965" Canvas.Top="457">
+                    <Border Width="133" Height="60" Background="#FFD9AAD4" CornerRadius="10" BorderBrush="#FF707070">
+                        <Label VerticalAlignment="Center" FontFamily="Ubuntu" FontSize="16" HorizontalAlignment="Center" Content="Ingresar"/>
+                    </Border>
+                </Button>
+            </Canvas>
+
+        </Border>
+    </Grid>
+</Window>

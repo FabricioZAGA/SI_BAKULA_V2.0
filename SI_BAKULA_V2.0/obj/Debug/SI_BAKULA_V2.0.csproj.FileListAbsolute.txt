@@ -1,0 +1,165 @@
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csprojAssemblyReference.cache
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActualizarInfromacion.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarMetodoPago.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCarrito.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCoprasRecientes.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\App.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.cache
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.lref
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe.config
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.pdb
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActualizarInfromacion.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarMetodoPago.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCarrito.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCoprasRecientes.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.baml
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.g.resources
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2._0.Properties.Resources.resources
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.GenerateResource.cache
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.CoreCompileInputs.cache
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.exe
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.pdb
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.g.cs
+D:\Documentos\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe.config
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.pdb
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActualizarInfromacion.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarMetodoPago.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCarrito.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCoprasRecientes.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\App.g.cs
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.cache
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.lref
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActualizarInfromacion.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarMetodoPago.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCarrito.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCoprasRecientes.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.baml
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.g.resources
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2._0.Properties.Resources.resources
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.exe
+C:\Users\danie\Downloads\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.pdb
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csprojAssemblyReference.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActInfo.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\App.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.lref
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.exe
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.pdb
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe.config
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.pdb
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActInfo.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.g.resources
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2._0.Properties.Resources.resources
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.GenerateResource.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarPago.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcComprasRecientes.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcShoppingCart.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarPago.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcComprasRecientes.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcShoppingCart.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe.config
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.pdb
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csprojAssemblyReference.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActInfo.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarPago.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcComprasRecientes.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcShoppingCart.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\App.g.cs
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.lref
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActInfo.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarPago.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcComprasRecientes.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcShoppingCart.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.baml
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.g.resources
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2._0.Properties.Resources.resources
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.GenerateResource.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.exe
+C:\Users\fabri\Desktop\SI_BAKULA_V3.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.pdb
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe.config
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.exe
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\bin\Debug\SI_BAKULA_V2.0.pdb
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csprojAssemblyReference.cache
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActInfo.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarPago.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcComprasRecientes.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcShoppingCart.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\App.g.cs
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.cache
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0_MarkupCompile.lref
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\ComprarProducto.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InfoCliente.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\InicioCliente.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\LogIn.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\Registro.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcActInfo.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcCambiarPago.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcComprasRecientes.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\Gui\UcShoppingCart.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\MainWindow.baml
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.g.resources
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2._0.Properties.Resources.resources
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.GenerateResource.cache
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.csproj.CoreCompileInputs.cache
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.exe
+D:\Documentos\2S ISSC\SI_BAKULA_V2.0\SI_BAKULA_V2.0\obj\Debug\SI_BAKULA_V2.0.pdb

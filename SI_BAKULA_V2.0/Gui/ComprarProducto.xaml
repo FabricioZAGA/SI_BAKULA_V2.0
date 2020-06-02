@@ -1,0 +1,60 @@
+﻿<Window x:Class="SI_BAKULA_V_1._0.Gui.ComprarProducto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SI_BAKULA_V_1._0.Gui"
+        mc:Ignorable="d"
+        Title="ComprarProducto" Height="720" Width="1280">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="100"/>
+      <RowDefinition/>
+    </Grid.RowDefinitions>
+    <Border Grid.Row="0" Background="#FFD9AAD4">
+      <Canvas>
+        <Image  Height="90" Canvas.Top="10" Width="104" Canvas.Left="10" Source="/SI_BAKULA_V2.0;component/Images/LOGO 2.png"></Image>
+        <Button Content="JUAN" Canvas.Left="1070" Canvas.Top="35" Width="172"  FontFamily="Ubuntu" BorderBrush="{x:Null}" Background="{x:Null}" FontSize="20" FontWeight="Bold" Click="Button_Click"/>
+      </Canvas>
+    </Border>
+    <Border Grid.Row="1">
+      <Grid>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="200"/>
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0">
+          <StackPanel>
+            <Image Height="150" Margin="0,40,0,0" Source="/SI_BAKULA_V2.0;component/Images/compra2.jpg"/>
+            <Image Height="150" Margin="0,20,0,0" Source="/SI_BAKULA_V2.0;component/Images/images.jpg"/>
+            <Image Height="150" Margin="0,20,0,0" Source="/SI_BAKULA_V2.0;component/Images/compra.jpg"/>
+          </StackPanel>
+        </Border>
+        <Border Grid.Column="1">
+          <Image x:Name="imgCambio" HorizontalAlignment="Center" VerticalAlignment="Center" Width="400" Height="400" Margin="71,45,65,144" Source="/SI_BAKULA_V2.0;component/Images/compra.jpg"/>
+        </Border>
+        <Border Grid.Column="2">
+          <Canvas>
+            <TextBlock HorizontalAlignment="Center" Height="41" TextWrapping="Wrap" Text="Zapato 1" VerticalAlignment="Top" Width="306" FontFamily="Ubuntu" FontSize="30" TextAlignment="Center" FontWeight="Bold" Grid.Column="1" Margin="131,41,99,0"/>
+            <TextBlock HorizontalAlignment="Center" Height="41" TextWrapping="Wrap" Text="$1000" VerticalAlignment="Top" Width="306" FontFamily="Ubuntu" FontSize="30" TextAlignment="Center" FontWeight="Bold" Canvas.Left="131" Canvas.Top="259"/>
+            <TextBlock Text="Es el Zapato 1" Canvas.Left="72" Canvas.Top="123" FontFamily="Ubuntu" FontSize="20" Width="401" Height="98" TextWrapping="WrapWithOverflow" TextAlignment="Center"/>
+            <Button x:Name="btnComprar" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="131" Canvas.Top="405">
+              <Border Width="133" Height="60" Background="#FFD9AAD4" CornerRadius="10" BorderBrush="#FF707070">
+                <Label VerticalAlignment="Center" FontFamily="Ubuntu" FontSize="16" HorizontalAlignment="Center" Content="Comprar"/>
+              </Border>
+            </Button>
+            <Button x:Name="btnCarrito" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="300" Canvas.Top="405">
+              <Border Width="133" Height="60" Background="#FFD9AAD4" CornerRadius="10" BorderBrush="#FF707070">
+                <Label VerticalAlignment="Center" FontFamily="Ubuntu" FontSize="16" HorizontalAlignment="Center" Content="Carrito"/>
+              </Border>
+            </Button>
+            <TextBlock Text="Metodo de Pago" Canvas.Left="108" Canvas.Top="323" FontFamily="Ubuntu" FontSize="20" Width="160" Height="34" TextWrapping="WrapWithOverflow" TextAlignment="Center"/>
+            <ComboBox x:Name="cmbMetodoPago" Height="32" Canvas.Left="302" Canvas.Top="325" Width="153"/>
+          </Canvas>
+        </Border>
+      </Grid>
+
+    </Border>
+  </Grid>
+</Window>
